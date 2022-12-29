@@ -1,0 +1,58 @@
+ /* everything is contained inside excepet footer */
+
+
+ .container {
+   width: 70%;
+   margin: auto;
+   text-align: center;
+ }
+
+ /* conatins img and its text */
+ .dice {
+   text-align: center;
+   display: inline-block;
+
+ }
+
+ /* for the entire bg color */
+
+ body {
+   background-color: #FCFFE7;
+ }
+
+ /* for making heading bold */
+
+ h1 {
+   margin: 30px;
+   font-family: 'Lobster', cursive;
+   text-shadow: 5px 0 #FF9A00;
+   font-size: 8rem;
+   color: #3EC1D3;
+ }
+
+ /* dice heading text */
+
+ p {
+   font-size: 3rem;
+   font-weight: 700;
+   color: #FF9A00;
+   font-family: 'Indie Flower', cursive;
+ }
+
+ /* size for the dices */
+
+ img {
+   width: 80%;
+ }
+
+ /* for remarking my efforts */
+
+ footer {
+   margin-top: 5%;
+   color: #FF9A00;
+   text-align: center;
+   font-size: 1.2rem;
+   font-weight: 650;
+   font-family: 'Indie Flower', cursive;
+
+ }
